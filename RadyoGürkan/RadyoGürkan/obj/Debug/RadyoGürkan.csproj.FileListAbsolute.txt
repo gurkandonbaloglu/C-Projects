@@ -1,0 +1,17 @@
+C:\Users\Asus\Desktop\C#\RadyoGürkan\RadyoGürkan\bin\Debug\RadyoGürkan.exe.config
+C:\Users\Asus\Desktop\C#\RadyoGürkan\RadyoGürkan\bin\Debug\RadyoGürkan.exe
+C:\Users\Asus\Desktop\C#\RadyoGürkan\RadyoGürkan\bin\Debug\RadyoGürkan.pdb
+C:\Users\Asus\Desktop\C#\RadyoGürkan\RadyoGürkan\obj\Debug\RadyoGürkan.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C#\RadyoGürkan\RadyoGürkan\obj\Debug\RadyoGürkan.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\C#\RadyoGürkan\RadyoGürkan\obj\Debug\RadyoGürkan.Form1.resources
+C:\Users\Asus\Desktop\C#\RadyoGürkan\RadyoGürkan\obj\Debug\RadyoGürkan.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\RadyoGürkan\RadyoGürkan\obj\Debug\RadyoGürkan.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\RadyoGürkan\RadyoGürkan\obj\Debug\RadyoGürkan.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\RadyoGürkan\RadyoGürkan\obj\Debug\RadyoGürkan.exe
+C:\Users\Asus\Desktop\C#\RadyoGürkan\RadyoGürkan\obj\Debug\RadyoGürkan.pdb
+C:\Users\Asus\Desktop\C#\RadyoGürkan\RadyoGürkan\bin\Debug\Interop.WMPLib.dll
+C:\Users\Asus\Desktop\C#\RadyoGürkan\RadyoGürkan\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Asus\Desktop\C#\RadyoGürkan\RadyoGürkan\obj\Debug\Interop.WMPLib.dll
+C:\Users\Asus\Desktop\C#\RadyoGürkan\RadyoGürkan\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Asus\Desktop\C#\RadyoGürkan\RadyoGürkan\obj\Debug\RadyoGürkan.csproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\C#\RadyoGürkan\RadyoGürkan\obj\Debug\RadyoGürkan.Form2.resources
