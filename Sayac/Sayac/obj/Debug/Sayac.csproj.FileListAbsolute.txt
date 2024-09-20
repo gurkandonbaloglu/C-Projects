@@ -1,0 +1,12 @@
+C:\Users\Asus\Desktop\C#\Sayac\Sayac\bin\Debug\Sayac.exe.config
+C:\Users\Asus\Desktop\C#\Sayac\Sayac\bin\Debug\Sayac.exe
+C:\Users\Asus\Desktop\C#\Sayac\Sayac\bin\Debug\Sayac.pdb
+C:\Users\Asus\Desktop\C#\Sayac\Sayac\obj\Debug\Sayac.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C#\Sayac\Sayac\obj\Debug\Sayac.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\C#\Sayac\Sayac\obj\Debug\Sayac.Form1.resources
+C:\Users\Asus\Desktop\C#\Sayac\Sayac\obj\Debug\Sayac.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\Sayac\Sayac\obj\Debug\Sayac.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\Sayac\Sayac\obj\Debug\Sayac.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\Sayac\Sayac\obj\Debug\Sayac.exe
+C:\Users\Asus\Desktop\C#\Sayac\Sayac\obj\Debug\Sayac.pdb
+C:\Users\Asus\Desktop\C#\Sayac\Sayac\obj\Debug\Sayac.Form2.resources
