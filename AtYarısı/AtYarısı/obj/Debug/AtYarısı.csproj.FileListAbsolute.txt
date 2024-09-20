@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\C#\AtYarısı\AtYarısı\bin\Debug\AtYarısı.exe.config
+C:\Users\Asus\Desktop\C#\AtYarısı\AtYarısı\bin\Debug\AtYarısı.exe
+C:\Users\Asus\Desktop\C#\AtYarısı\AtYarısı\bin\Debug\AtYarısı.pdb
+C:\Users\Asus\Desktop\C#\AtYarısı\AtYarısı\obj\Debug\AtYarısı.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C#\AtYarısı\AtYarısı\obj\Debug\AtYarısı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\C#\AtYarısı\AtYarısı\obj\Debug\AtYarısı.Form1.resources
+C:\Users\Asus\Desktop\C#\AtYarısı\AtYarısı\obj\Debug\AtYarısı.Form3.resources
+C:\Users\Asus\Desktop\C#\AtYarısı\AtYarısı\obj\Debug\AtYarısı.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\AtYarısı\AtYarısı\obj\Debug\AtYarısı.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\AtYarısı\AtYarısı\obj\Debug\AtYarısı.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\AtYarısı\AtYarısı\obj\Debug\AtYarısı.exe
+C:\Users\Asus\Desktop\C#\AtYarısı\AtYarısı\obj\Debug\AtYarısı.pdb
+C:\Users\Asus\Desktop\C#\AtYarısı\AtYarısı\obj\Debug\AtYarısı.Form2.resources
+C:\Users\Asus\Desktop\C#\AtYarısı\AtYarısı\bin\Debug\NAudio.dll
+C:\Users\Asus\Desktop\C#\AtYarısı\AtYarısı\obj\Debug\AtYarısı.csproj.CopyComplete
