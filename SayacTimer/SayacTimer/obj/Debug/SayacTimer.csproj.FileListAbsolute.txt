@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\C#\SayacTimer\SayacTimer\bin\Debug\SayacTimer.exe.config
+C:\Users\Asus\Desktop\C#\SayacTimer\SayacTimer\bin\Debug\SayacTimer.exe
+C:\Users\Asus\Desktop\C#\SayacTimer\SayacTimer\bin\Debug\SayacTimer.pdb
+C:\Users\Asus\Desktop\C#\SayacTimer\SayacTimer\obj\Debug\SayacTimer.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C#\SayacTimer\SayacTimer\obj\Debug\SayacTimer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\C#\SayacTimer\SayacTimer\obj\Debug\SayacTimer.Form1.resources
+C:\Users\Asus\Desktop\C#\SayacTimer\SayacTimer\obj\Debug\SayacTimer.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\SayacTimer\SayacTimer\obj\Debug\SayacTimer.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\SayacTimer\SayacTimer\obj\Debug\SayacTimer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\SayacTimer\SayacTimer\obj\Debug\SayacTimer.exe
+C:\Users\Asus\Desktop\C#\SayacTimer\SayacTimer\obj\Debug\SayacTimer.pdb
