@@ -1,0 +1,12 @@
+C:\Users\Asus\Desktop\C#\Site Emlak Projesi\Site Emlak Projesi\bin\Debug\Site Emlak Projesi.exe.config
+C:\Users\Asus\Desktop\C#\Site Emlak Projesi\Site Emlak Projesi\bin\Debug\Site Emlak Projesi.exe
+C:\Users\Asus\Desktop\C#\Site Emlak Projesi\Site Emlak Projesi\bin\Debug\Site Emlak Projesi.pdb
+C:\Users\Asus\Desktop\C#\Site Emlak Projesi\Site Emlak Projesi\obj\Debug\Site Emlak Projesi.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C#\Site Emlak Projesi\Site Emlak Projesi\obj\Debug\Site Emlak Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\C#\Site Emlak Projesi\Site Emlak Projesi\obj\Debug\Site_Emlak_Projesi.Form1.resources
+C:\Users\Asus\Desktop\C#\Site Emlak Projesi\Site Emlak Projesi\obj\Debug\Site_Emlak_Projesi.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\Site Emlak Projesi\Site Emlak Projesi\obj\Debug\Site Emlak Projesi.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\Site Emlak Projesi\Site Emlak Projesi\obj\Debug\Site Emlak Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\Site Emlak Projesi\Site Emlak Projesi\obj\Debug\Site Emlak Projesi.exe
+C:\Users\Asus\Desktop\C#\Site Emlak Projesi\Site Emlak Projesi\obj\Debug\Site Emlak Projesi.pdb
+C:\Users\Asus\Desktop\C#\Site Emlak Projesi\Site Emlak Projesi\obj\Debug\Site_Emlak_Projesi.Form2.resources
